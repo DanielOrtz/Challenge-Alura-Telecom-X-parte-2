@@ -1,4 +1,4 @@
-# Challenge-Alura-Telecom-X-parte-2
+# Proyecto Telecom-X - Análisis de Evasión de Clientes (Churn)
 📊 Predicción de Cancelación de Clientes – Telecom X
 📌 Descripción del proyecto
 
